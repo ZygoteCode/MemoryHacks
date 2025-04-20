@@ -1,0 +1,27 @@
+C:\Users\ZygoteCode\Desktop\ciao\MemoryHacks\bin\Release\MemoryHacks.dll
+C:\Users\ZygoteCode\Desktop\ciao\MemoryHacks\bin\Release\MemoryHacks.pdb
+C:\Users\ZygoteCode\Desktop\ciao\MemoryHacks\obj\Release\MemoryHacks.csproj.AssemblyReference.cache
+C:\Users\ZygoteCode\Desktop\ciao\MemoryHacks\obj\Release\MemoryHacks.Properties.Resources.resources
+C:\Users\ZygoteCode\Desktop\ciao\MemoryHacks\obj\Release\MemoryHacks.csproj.GenerateResource.cache
+C:\Users\ZygoteCode\Desktop\ciao\MemoryHacks\obj\Release\MemoryHacks.csproj.CoreCompileInputs.cache
+C:\Users\ZygoteCode\Desktop\ciao\MemoryHacks\obj\Release\MemoryHacks.dll
+C:\Users\ZygoteCode\Desktop\ciao\MemoryHacks\obj\Release\MemoryHacks.pdb
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ciao\MemoryHacks\bin\Release\MemoryHacks.dll
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ciao\MemoryHacks\bin\Release\MemoryHacks.pdb
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ciao\MemoryHacks\obj\Release\MemoryHacks.csproj.AssemblyReference.cache
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ciao\MemoryHacks\obj\Release\MemoryHacks.Properties.Resources.resources
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ciao\MemoryHacks\obj\Release\MemoryHacks.csproj.GenerateResource.cache
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ciao\MemoryHacks\obj\Release\MemoryHacks.csproj.CoreCompileInputs.cache
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ciao\MemoryHacks\obj\Release\MemoryHacks.dll
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ciao\MemoryHacks\obj\Release\MemoryHacks.pdb
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\MemoryHacks\bin\Release\MemoryHacks.dll
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\MemoryHacks\bin\Release\MemoryHacks.pdb
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\MemoryHacks\bin\Release\Fasm.NET.dll
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\MemoryHacks\bin\Release\Fasm.NET.xml
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\MemoryHacks\obj\Release\MemoryHacks.csproj.AssemblyReference.cache
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\MemoryHacks\obj\Release\MemoryHacks.Properties.Resources.resources
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\MemoryHacks\obj\Release\MemoryHacks.csproj.GenerateResource.cache
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\MemoryHacks\obj\Release\MemoryHacks.csproj.CoreCompileInputs.cache
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\MemoryHacks\obj\Release\MemoryHacks.csproj.CopyComplete
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\MemoryHacks\obj\Release\MemoryHacks.dll
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\MemoryHacks\obj\Release\MemoryHacks.pdb
